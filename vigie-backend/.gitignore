@@ -1,0 +1,6 @@
+agent/
+scripts/
+*.db
+.env
+.env.example
+

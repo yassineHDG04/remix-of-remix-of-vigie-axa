@@ -1,0 +1,1 @@
+UPDATE public.dossiers SET ref_axa = REPLACE(ref_axa, 'AXA-', 'M2S-') WHERE ref_axa LIKE 'AXA-%';

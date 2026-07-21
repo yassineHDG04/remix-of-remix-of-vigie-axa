@@ -1,0 +1,1 @@
+ALTER TABLE public.dossiers RENAME COLUMN ref_axa TO ref_m2s;
